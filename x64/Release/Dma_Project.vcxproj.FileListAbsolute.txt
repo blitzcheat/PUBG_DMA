@@ -1,0 +1,3 @@
+D:\biancheng\C++源码\DMA\pubg\x64\Release\Dma_PUBG.exe
+E:\Desktop\PUBGDMA收\pubg\x64\Release\Dma_PUBG.exe
+E:\Desktop\PUBGDMA收\pubg_111\x64\Release\Dma_PUBG.exe

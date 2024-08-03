@@ -1,0 +1,663 @@
+﻿cl : 命令行 warning D9002: 忽略未知选项“/arch:IA32”
+  Json.cpp
+E:\Desktop\PUBGDMA收\pubg_111\Config\Json\Json.cpp(80,38): warning C4101: “ex”: 未引用的局部变量
+  CThread.cpp
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(120,15): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(473,14): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(482,14): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(381,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(381,35): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1345,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1345,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1355,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1355,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1362,27): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1362,27): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1371,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1371,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1380,36): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1380,36): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1395,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1395,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1405,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1405,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1414,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1414,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1422,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1422,31): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1429,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1429,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1438,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1438,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1449,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1449,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1458,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1458,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1466,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1466,29): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1475,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1475,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1484,24): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1484,24): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1493,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1493,29): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1874,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1874,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\Memory.h(13,2): warning C4091: “typedef ”: 没有声明变量时忽略“MY_MEMORY_BASIC_INFORMATION64”的左侧
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(315,2): warning C4091: “typedef ”: 没有声明变量时忽略“StringA”的左侧
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(348,63): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(349,63): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Engine.h(43,46): warning C4244: “参数”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Engine.h(488,34): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Engine.h(491,36): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Engine.h(492,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Engine.h(571,40): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Engine.h(571,37): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\util.hpp(20,6): warning C4101: “计次”: 未引用的局部变量
+E:\Desktop\PUBGDMA收\pubg_111\CThread.cpp(213,144): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(58,1): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(56): message : 在编译 类 模板 成员函数“bool TArrayDrink<TSetElement<T>>::GetValues(TSetElement<T> &,size_t) const”时
+          with
+          [
+              T=TPair<FString,FTslWidgetState>
+          ]
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(64): message : 查看对正在编译的函数 模板 实例化“bool TArrayDrink<TSetElement<T>>::GetValues(TSetElement<T> &,size_t) const”的引用
+          with
+          [
+              T=TPair<FString,FTslWidgetState>
+          ]
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(143): message : 查看对正在编译的 类 模板 实例化“TArrayDrink<TSetElement<T>>”的引用
+          with
+          [
+              T=TPair<FString,FTslWidgetState>
+          ]
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(152): message : 查看对正在编译的 类 模板 实例化“TSet<TPair<KeyType,ValueType>>”的引用
+          with
+          [
+              KeyType=FString,
+              ValueType=FTslWidgetState
+          ]
+E:\Desktop\PUBGDMA收\pubg_111\CThread.cpp(132): message : 查看对正在编译的 类 模板 实例化“TMap<FString,FTslWidgetState>”的引用
+  Entry.cpp
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(120,15): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(473,14): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(482,14): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(381,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(381,35): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1345,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1345,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1355,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1355,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1362,27): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1362,27): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1371,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1371,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1380,36): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1380,36): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1395,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1395,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1405,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1405,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1414,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1414,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1422,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1422,31): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1429,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1429,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1438,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1438,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1449,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1449,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1458,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1458,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1466,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1466,29): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1475,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1475,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1484,24): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1484,24): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1493,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1493,29): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1874,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1874,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\Memory.h(13,2): warning C4091: “typedef ”: 没有声明变量时忽略“MY_MEMORY_BASIC_INFORMATION64”的左侧
+E:\Desktop\PUBGDMA收\pubg_111\Menu\Menu.h(24,37): warning C4267: “参数”: 从“size_t”转换到“_Elem”，可能丢失数据
+          with
+          [
+              _Elem=char
+          ]
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(315,2): warning C4091: “typedef ”: 没有声明变量时忽略“StringA”的左侧
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(348,63): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(349,63): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\draw.hpp(46,96): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\draw.hpp(46,91): warning C4244: “参数”: 从“float”转换到“ImDrawFlags”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\draw.hpp(50,97): warning C4244: “参数”: 从“float”转换到“ImDrawFlags”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\draw.hpp(81,73): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\draw.hpp(94,73): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\util.hpp(20,6): warning C4101: “计次”: 未引用的局部变量
+E:\Desktop\PUBGDMA收\pubg_111\Entry.cpp(191,32): warning C4477: “sprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+E:\Desktop\PUBGDMA收\pubg_111\Entry.cpp(191,32): message : 请考虑在格式字符串中使用“%zd”
+E:\Desktop\PUBGDMA收\pubg_111\Entry.cpp(191,32): warning C4477: “sprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+E:\Desktop\PUBGDMA收\pubg_111\Entry.cpp(191,32): message : 请考虑在格式字符串中使用“%zd”
+E:\Desktop\PUBGDMA收\pubg_111\Entry.cpp(191,32): warning C4477: “sprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“unsigned __int64”
+E:\Desktop\PUBGDMA收\pubg_111\Entry.cpp(191,32): message : 请考虑在格式字符串中使用“%zd”
+E:\Desktop\PUBGDMA收\pubg_111\Entry.cpp(143,14): warning C4101: “数据D”: 未引用的局部变量
+E:\Desktop\PUBGDMA收\pubg_111\Entry.cpp(140,14): warning C4101: “数据A”: 未引用的局部变量
+E:\Desktop\PUBGDMA收\pubg_111\Entry.cpp(190,18): warning C4101: “数据D”: 未引用的局部变量
+E:\Desktop\PUBGDMA收\pubg_111\Entry.cpp(206,18): warning C4101: “武器数据”: 未引用的局部变量
+  imgui.cpp
+E:\Desktop\PUBGDMA收\pubg_111\ImGui\imgui.cpp(3721,41): warning C4101: “e”: 未引用的局部变量
+E:\Desktop\PUBGDMA收\pubg_111\ImGui\imgui.cpp(3725,37): warning C4101: “e”: 未引用的局部变量
+  ImguiCustom.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+E:\Desktop\PUBGDMA收\pubg_111\ImGui\imgui_widgets.cpp(297,26): warning C4244: “初始化”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+  key.cpp
+  main.cpp
+E:\Desktop\PUBGDMA收\pubg_111\Menu\Menu.h(24,37): warning C4267: “参数”: 从“size_t”转换到“_Elem”，可能丢失数据
+          with
+          [
+              _Elem=char
+          ]
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(120,15): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(473,14): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(482,14): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(381,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(381,35): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1345,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1345,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1355,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1355,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1362,27): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1362,27): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1371,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1371,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1380,36): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1380,36): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1395,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1395,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1405,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1405,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1414,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1414,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1422,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1422,31): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1429,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1429,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1438,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1438,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1449,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1449,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1458,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1458,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1466,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1466,29): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1475,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1475,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1484,24): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1484,24): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1493,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1493,29): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1874,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1874,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\Memory.h(13,2): warning C4091: “typedef ”: 没有声明变量时忽略“MY_MEMORY_BASIC_INFORMATION64”的左侧
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(315,2): warning C4091: “typedef ”: 没有声明变量时忽略“StringA”的左侧
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(348,63): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(349,63): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\draw.hpp(46,96): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\draw.hpp(46,91): warning C4244: “参数”: 从“float”转换到“ImDrawFlags”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\draw.hpp(50,97): warning C4244: “参数”: 从“float”转换到“ImDrawFlags”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\draw.hpp(81,73): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\draw.hpp(94,73): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  Memory.cpp
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(120,15): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(473,14): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(482,14): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(381,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(381,35): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1345,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1345,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1355,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1355,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1362,27): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1362,27): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1371,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1371,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1380,36): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1380,36): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1395,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1395,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1405,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1405,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1414,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1414,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1422,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1422,31): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1429,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1429,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1438,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1438,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1449,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1449,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1458,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1458,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1466,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1466,29): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1475,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1475,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1484,24): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1484,24): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1493,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1493,29): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1874,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1874,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\Memory.h(13,2): warning C4091: “typedef ”: 没有声明变量时忽略“MY_MEMORY_BASIC_INFORMATION64”的左侧
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(315,2): warning C4091: “typedef ”: 没有声明变量时忽略“StringA”的左侧
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(348,63): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(349,63): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Memory.cpp(214,33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Memory.cpp(487,21): warning C4018: “<”: 有符号/无符号不匹配
+E:\Desktop\PUBGDMA收\pubg_111\Memory.h(95,1): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Memory.cpp(241): message : 查看对正在编译的函数 模板 实例化“void Memory::ReadArray<BYTE>(uint64_t,T [],size_t,bool)”的引用
+          with
+          [
+              T=BYTE
+          ]
+  Menu.cpp
+E:\Desktop\PUBGDMA收\pubg_111\Menu\Menu.h(24,37): warning C4267: “参数”: 从“size_t”转换到“_Elem”，可能丢失数据
+          with
+          [
+              _Elem=char
+          ]
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(120,15): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(473,14): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(482,14): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(381,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(381,35): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1345,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1345,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1355,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1355,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1362,27): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1362,27): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1371,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1371,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1380,36): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1380,36): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1395,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1395,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1405,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1405,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1414,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1414,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1422,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1422,31): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1429,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1429,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1438,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1438,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1449,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1449,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1458,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1458,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1466,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1466,29): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1475,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1475,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1484,24): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1484,24): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1493,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1493,29): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1874,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1874,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\Memory.h(13,2): warning C4091: “typedef ”: 没有声明变量时忽略“MY_MEMORY_BASIC_INFORMATION64”的左侧
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(315,2): warning C4091: “typedef ”: 没有声明变量时忽略“StringA”的左侧
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(348,63): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(349,63): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\kmbox\KMSeria.h(42,25): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\kmbox\KMSeria.h(40,6): warning C4101: “计次”: 未引用的局部变量
+E:\Desktop\PUBGDMA收\pubg_111\kmbox\KMSeria.h(45,7): warning C4101: “charArray”: 未引用的局部变量
+E:\Desktop\PUBGDMA收\pubg_111\kmbox\KMSeria.h(44,7): warning C4101: “COMxString”: 未引用的局部变量
+E:\Desktop\PUBGDMA收\pubg_111\kmbox\KMSeria.h(87,5): warning C4311: “类型强制转换”: 从“HANDLE”到“int”的指针截断
+E:\Desktop\PUBGDMA收\pubg_111\kmbox\KMSeria.h(87,5): warning C4302: “类型强制转换”: 从“HANDLE”到“int”截断
+E:\Desktop\PUBGDMA收\pubg_111\kmbox\KMSeria.h(158,56): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\kmbox\KMSeria.h(171,69): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Menu\Menu.cpp(143,37): warning C4305: “参数”: 从“double”到“float”截断
+E:\Desktop\PUBGDMA收\pubg_111\Menu\Menu.cpp(541,37): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Menu\Menu.cpp(542,37): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Menu\Menu.cpp(543,37): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Menu\Menu.cpp(544,37): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Menu\Menu.cpp(669,120): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Menu\Menu.cpp(671,121): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Menu\Menu.cpp(675,31): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Menu\Menu.cpp(962,31): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\algorithm(2650,24): warning C4244: “参数”: 从“unsigned __int64”转换到“char”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Menu\Menu.h(38): message : 查看对正在编译的函数 模板 实例化“_OutIt std::transform<std::_Array_iterator<_Ty,4>,std::back_insert_iterator<std::string>,Obf::Xor_String<4>::()::<lambda_7b47f054f50984403f03246297c41fe2>>(const _InIt,const _InIt,_OutIt,_Fn)”的引用
+          with
+          [
+              _OutIt=std::back_insert_iterator<std::string>,
+              _Ty=char,
+              _InIt=std::_Array_iterator<char,4>,
+              _Fn=Obf::Xor_String<4>::()::<lambda_7b47f054f50984403f03246297c41fe2>
+          ]
+E:\Desktop\PUBGDMA收\pubg_111\Menu\Menu.h(33): message : 在编译 类 模板 成员函数“std::string Obf::Xor_String<4>::operator ()(void)”时
+E:\Desktop\PUBGDMA收\pubg_111\Menu\Menu.cpp(217): message : 查看对正在编译的 类 模板 实例化“Obf::Xor_String<4>”的引用
+  StringH.cpp
+E:\Desktop\PUBGDMA收\pubg_111\Menu\utils\StringH.cpp(198,31): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Radar.cpp
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(120,15): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(473,14): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(482,14): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(381,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(381,35): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1345,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1345,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1355,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1355,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1362,27): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1362,27): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1371,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1371,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1380,36): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1380,36): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1395,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1395,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1405,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1405,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1414,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1414,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1422,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1422,31): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1429,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1429,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1438,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1438,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1449,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1449,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1458,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1458,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1466,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1466,29): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1475,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1475,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1484,24): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1484,24): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1493,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1493,29): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1874,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1874,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\Memory.h(13,2): warning C4091: “typedef ”: 没有声明变量时忽略“MY_MEMORY_BASIC_INFORMATION64”的左侧
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(315,2): warning C4091: “typedef ”: 没有声明变量时忽略“StringA”的左侧
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(348,63): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(349,63): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Radar\Radar.cpp(8,89): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Radar\Radar.cpp(9,89): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Radar\Radar.cpp(62,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Radar\Radar.cpp(66,62): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Radar\Radar.cpp(139,32): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Radar\Radar.cpp(140,32): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Radar\Radar.cpp(160,5): warning C4305: “参数”: 从“double”到“float”截断
+E:\Desktop\PUBGDMA收\pubg_111\Radar\Radar.cpp(168,63): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Radar\Radar.cpp(169,108): warning C4305: “参数”: 从“double”到“float”截断
+E:\Desktop\PUBGDMA收\pubg_111\Radar\Radar.cpp(169,57): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Radar\Radar.cpp(171,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Radar\Radar.cpp(172,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Radar\Radar.cpp(174,36): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Radar\Radar.cpp(175,36): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Radar\Radar.cpp(177,36): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Radar\Radar.cpp(178,36): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Render.cpp
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(120,15): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(473,14): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(482,14): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(381,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(381,35): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1345,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1345,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1355,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1355,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1362,27): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1362,27): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1371,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1371,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1380,36): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1380,36): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1395,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1395,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1405,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1405,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1414,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1414,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1422,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1422,31): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1429,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1429,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1438,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1438,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1449,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1449,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1458,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1458,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1466,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1466,29): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1475,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1475,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1484,24): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1484,24): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1493,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1493,29): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1874,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1874,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\Memory.h(13,2): warning C4091: “typedef ”: 没有声明变量时忽略“MY_MEMORY_BASIC_INFORMATION64”的左侧
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(315,2): warning C4091: “typedef ”: 没有声明变量时忽略“StringA”的左侧
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(348,63): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(349,63): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\draw.hpp(46,96): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\draw.hpp(46,91): warning C4244: “参数”: 从“float”转换到“ImDrawFlags”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\draw.hpp(50,97): warning C4244: “参数”: 从“float”转换到“ImDrawFlags”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\draw.hpp(81,73): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\draw.hpp(94,73): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Engine.h(43,46): warning C4244: “参数”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Engine.h(488,34): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Engine.h(491,36): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Engine.h(492,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Engine.h(571,40): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Engine.h(571,37): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\util.hpp(20,6): warning C4101: “计次”: 未引用的局部变量
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(46,24): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(53,71): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(53,59): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(53,46): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(53,33): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(74,42): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(83,42): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(99,68): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(99,55): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(99,42): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(99,29): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(149,67): warning C4244: “参数”: 从“ImU32”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(150,67): warning C4244: “参数”: 从“ImU32”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(151,67): warning C4244: “参数”: 从“ImU32”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(184,21): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(187,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(188,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(189,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(190,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(191,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(192,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(193,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(194,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(195,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(196,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(197,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(198,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(199,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(200,47): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Render.cpp(830,48): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Game.cpp
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(120,15): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(473,14): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(482,14): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(381,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(381,35): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1345,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1345,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1355,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1355,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1362,27): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1362,27): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1371,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1371,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1380,36): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1380,36): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1395,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1395,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1405,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1405,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1414,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1414,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1422,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1422,31): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1429,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1429,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1438,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1438,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1449,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1449,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1458,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1458,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1466,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1466,29): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1475,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1475,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1484,24): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1484,24): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1493,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1493,29): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1874,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1874,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\Memory.h(13,2): warning C4091: “typedef ”: 没有声明变量时忽略“MY_MEMORY_BASIC_INFORMATION64”的左侧
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(315,2): warning C4091: “typedef ”: 没有声明变量时忽略“StringA”的左侧
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(348,63): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(349,63): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\kmbox\KMSeria.h(42,25): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\kmbox\KMSeria.h(40,6): warning C4101: “计次”: 未引用的局部变量
+E:\Desktop\PUBGDMA收\pubg_111\kmbox\KMSeria.h(45,7): warning C4101: “charArray”: 未引用的局部变量
+E:\Desktop\PUBGDMA收\pubg_111\kmbox\KMSeria.h(44,7): warning C4101: “COMxString”: 未引用的局部变量
+E:\Desktop\PUBGDMA收\pubg_111\kmbox\KMSeria.h(87,5): warning C4311: “类型强制转换”: 从“HANDLE”到“int”的指针截断
+E:\Desktop\PUBGDMA收\pubg_111\kmbox\KMSeria.h(87,5): warning C4302: “类型强制转换”: 从“HANDLE”到“int”截断
+E:\Desktop\PUBGDMA收\pubg_111\kmbox\KMSeria.h(158,56): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\kmbox\KMSeria.h(171,69): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Engine.h(43,46): warning C4244: “参数”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Engine.h(488,34): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Engine.h(491,36): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Engine.h(492,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Engine.h(571,40): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\Engine.h(571,37): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\AimBot.hpp(17,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\AimBot.hpp(18,22): warning C4244: “初始化”: 从“float”转换到“DWORD64”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\AimBot.hpp(91,20): warning C4244: “初始化”: 从“DWORD64”转换到“int”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\util.hpp(20,6): warning C4101: “计次”: 未引用的局部变量
+E:\Desktop\PUBGDMA收\pubg_111\Game.cpp(110,37): warning C4066: 宽字符常量的第一个字符之外的字符被忽略
+  正在编译...
+  struct.cpp
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(120,15): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(120,15): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(473,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(473,14): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(482,14): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\leechcore.h(482,14): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(381,35): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(381,35): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1345,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1345,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1355,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1355,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1362,27): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1362,27): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1371,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1371,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1380,36): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1380,36): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1395,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1395,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1405,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1405,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1414,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1414,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1422,31): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1422,31): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1429,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1429,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1438,28): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1438,28): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1449,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1449,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1458,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1458,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1466,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1466,29): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1475,26): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1475,26): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1484,24): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1484,24): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1493,29): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1493,29): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1874,25): warning C4200: 使用了非标准扩展: 结构/联合中的零大小数组
+E:\Desktop\PUBGDMA收\pubg_111\pcileech\vmmdll.h(1874,25): message : 默认构造函数或 copy/move 赋值运算符将忽略此成员
+E:\Desktop\PUBGDMA收\pubg_111\Memory.h(13,2): warning C4091: “typedef ”: 没有声明变量时忽略“MY_MEMORY_BASIC_INFORMATION64”的左侧
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(315,2): warning C4091: “typedef ”: 没有声明变量时忽略“StringA”的左侧
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(348,63): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+E:\Desktop\PUBGDMA收\pubg_111\struct.h(349,63): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+E:\Desktop\PUBGDMA收\pubg_111\ImGui\imgui_notify.h(148): warning C4715: “ImGuiToast::get_icon”: 不是所有的控件路径都返回值
+E:\Desktop\PUBGDMA收\pubg_111\kmbox\KMSeria.h(152): warning C4715: “serail::close”: 不是所有的控件路径都返回值
+E:\Desktop\PUBGDMA收\pubg_111\ImGui\imgui_notify.h(160): warning C4172: 返回局部变量或临时变量的地址
+E:\Desktop\PUBGDMA收\pubg_111\ImGui\imgui_notify.h(164): warning C4172: 返回局部变量或临时变量的地址
+E:\Desktop\PUBGDMA收\pubg_111\ImGui\imgui_notify.h(168): warning C4172: 返回局部变量或临时变量的地址
+E:\Desktop\PUBGDMA收\pubg_111\ImGui\imgui_notify.h(172): warning C4172: 返回局部变量或临时变量的地址
+E:\Desktop\PUBGDMA收\pubg_111\kmbox\KMSeria.h(109): warning C4715: “serail::open”: 不是所有的控件路径都返回值
+E:\Desktop\PUBGDMA收\pubg_111\ImGui\imgui_notify.h(131): warning C4715: “ImGuiToast::get_color”: 不是所有的控件路径都返回值
+E:\Desktop\PUBGDMA收\pubg_111\ImGui\imgui_notify.h(129): warning C4172: 返回局部变量或临时变量的地址
+E:\Desktop\PUBGDMA收\pubg_111\ImGui\imgui_notify.h(127): warning C4172: 返回局部变量或临时变量的地址
+E:\Desktop\PUBGDMA收\pubg_111\ImGui\imgui_notify.h(125): warning C4172: 返回局部变量或临时变量的地址
+E:\Desktop\PUBGDMA收\pubg_111\ImGui\imgui_notify.h(123): warning C4172: 返回局部变量或临时变量的地址
+E:\Desktop\PUBGDMA收\pubg_111\ImGui\imgui_notify.h(121): warning C4172: 返回局部变量或临时变量的地址
+E:\Desktop\PUBGDMA收\pubg_111\kmbox\KMSeria.h(164): warning C4715: “serail::send”: 不是所有的控件路径都返回值
+  All 5274 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Dma_Project.vcxproj -> E:\Desktop\PUBGDMA收\pubg_111\x64\Release\Dma_PUBG.exe
