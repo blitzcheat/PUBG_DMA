@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="DmaMemory">
+      <UniqueIdentifier>{e5ed5ebc-032f-47b0-92e0-e289039a47d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pcileech">
+      <UniqueIdentifier>{3d65592e-f84a-4625-8e10-4bfdf6475c04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Render">
+      <UniqueIdentifier>{6801a921-dc00-4490-9051-36439746b8b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine">
+      <UniqueIdentifier>{f35a3f56-d0a5-4bb1-b846-59402c62cb1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Features">
+      <UniqueIdentifier>{af45d0f6-9a0c-4c37-8066-824a40385f20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="KmBox">
+      <UniqueIdentifier>{1f1b862d-cc72-4872-95e8-4a94bd6e7453}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AimBot">
+      <UniqueIdentifier>{83f8ed8e-f4d4-4666-a5dd-5a7f6e75cf5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="key">
+      <UniqueIdentifier>{d6e4f4bc-165c-46a7-a671-2aed72799f47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5857f52d-e81c-4985-8386-34f78a43afa1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Config\Json">
+      <UniqueIdentifier>{be3dd656-8778-452d-82ff-ad5d3756a595}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Menu">
+      <UniqueIdentifier>{d4d457b5-9e6d-4b58-80f8-c0e2d5debf4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Menu\utils">
+      <UniqueIdentifier>{8b181618-c720-4e6d-b679-5acc8042a89b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Util">
+      <UniqueIdentifier>{04512a21-34dc-4b97-8f3d-f05848bbaaba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{7df43c0b-a965-426c-b503-99d3150d539f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ImGui">
+      <UniqueIdentifier>{2f3f289d-7c83-4a5c-b48d-b705e2c8ed19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GLFW">
+      <UniqueIdentifier>{ffa8a595-c922-4368-8f40-89a0d37be25b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Stb">
+      <UniqueIdentifier>{6194a05d-addd-4965-8287-4c57545c25d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Load">
+      <UniqueIdentifier>{a376e114-d20f-4ccc-a4a7-e924bd3eda6a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Render\Radar">
+      <UniqueIdentifier>{9bf66bd9-ff44-4f2f-b44c-16cfdb9ab232}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Memory.cpp">
+      <Filter>DmaMemory</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu\Menu.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu\utils\StringH.cpp">
+      <Filter>Menu\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="Entry.cpp">
+      <Filter>Load</Filter>
+    </ClCompile>
+    <ClCompile Include="Render.cpp">
+      <Filter>Render</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="struct.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Config\Json\Json.cpp">
+      <Filter>Config\Json</Filter>
+    </ClCompile>
+    <ClCompile Include="CThread.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_draw.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_impl_dx11.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_impl_glfw.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_impl_opengl3.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_impl_win32.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_tables.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_widgets.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\ImguiCustom.cpp">
+      <Filter>ImGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Radar\Radar.cpp">
+      <Filter>Render\Radar</Filter>
+    </ClCompile>
+    <ClCompile Include="key.cpp">
+      <Filter>key</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Includes.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Memory.h">
+      <Filter>DmaMemory</Filter>
+    </ClInclude>
+    <ClInclude Include="Pcileech\leechcore.h">
+      <Filter>Pcileech</Filter>
+    </ClInclude>
+    <ClInclude Include="Pcileech\vmmdll.h">
+      <Filter>Pcileech</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu\Fonts.hpp">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu\Fonts_text.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu\Menu.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu\utils\StringH.hpp">
+      <Filter>Menu\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Entry.h">
+      <Filter>Load</Filter>
+    </ClInclude>
+    <ClInclude Include="Render.h">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Features\Global.h">
+      <Filter>Features</Filter>
+    </ClInclude>
+    <ClInclude Include="struct.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="offset.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="util.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="KmBox\KMSeria.h">
+      <Filter>KmBox</Filter>
+    </ClInclude>
+    <ClInclude Include="key\key.h">
+      <Filter>key</Filter>
+    </ClInclude>
+    <ClInclude Include="Config\JsonSystem.h">
+      <Filter>Config</Filter>
+    </ClInclude>
+    <ClInclude Include="Config\Json\json.h">
+      <Filter>Config\Json</Filter>
+    </ClInclude>
+    <ClInclude Include="Config\Json\json.hpp">
+      <Filter>Config\Json</Filter>
+    </ClInclude>
+    <ClInclude Include="XXOR.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stb\stb.h">
+      <Filter>Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="stb\stb_c_lexer.h">
+      <Filter>Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="stb\stb_connected_components.h">
+      <Filter>Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="stb\stb_divide.h">
+      <Filter>Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="stb\stb_ds.h">
+      <Filter>Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="stb\stb_dxt.h">
+      <Filter>Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="stb\stb_easy_font.h">
+      <Filter>Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="stb\stb_herringbone_wang_tile.h">
+      <Filter>Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="stb\stb_image.h">
+      <Filter>Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="stb\stb_image_resize.h">
+      <Filter>Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="stb\stb_image_write.h">
+      <Filter>Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="stb\stb_include.h">
+      <Filter>Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="stb\stb_leakcheck.h">
+      <Filter>Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="stb\stb_perlin.h">
+      <Filter>Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="stb\stb_rect_pack.h">
+      <Filter>Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="stb\stb_sprintf.h">
+      <Filter>Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="stb\stb_textedit.h">
+      <Filter>Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="stb\stb_tilemap_editor.h">
+      <Filter>Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="stb\stb_truetype.h">
+      <Filter>Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="stb\stb_voxel_render.h">
+      <Filter>Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="stb\stretchy_buffer.h">
+      <Filter>Stb</Filter>
+    </ClInclude>
+    <ClInclude Include="CThread.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="AimBot.hpp">
+      <Filter>AimBot</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imconfig.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_helper.hpp">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_impl_dx11.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_impl_glfw.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_impl_opengl3.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_impl_opengl3_loader.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_impl_win32.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_internal.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_notify.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\ImguiCustom.hpp">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imstb_rectpack.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imstb_textedit.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imstb_truetype.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\stb_image.h">
+      <Filter>ImGui</Filter>
+    </ClInclude>
+    <ClInclude Include="GLFW\glfw3.h">
+      <Filter>GLFW</Filter>
+    </ClInclude>
+    <ClInclude Include="GLFW\glfw3native.h">
+      <Filter>GLFW</Filter>
+    </ClInclude>
+    <ClInclude Include="draw.hpp">
+      <Filter>Render</Filter>
+    </ClInclude>
+    <ClInclude Include="Radar\Radar.h">
+      <Filter>Render\Radar</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
